@@ -11,9 +11,9 @@ Electronic components detection from Automatic Optical Inspection(AOI) machine i
 ## Training & Inference 
 * Pretrained in MS-COCO dataset 
  
-|Framework|Method|Backbone|Hardware|LR Scheduler|Train Time|Train Memory|Inference Time|Box AP|Mask AP|OpenColab|
+|Toolbox|Method|Backbone|Hardware|LR Scheduler|Train Time|Train Memory|Inference Time|Box AP|Mask AP|OpenColab|
 | :---: | :---: | :---: | :---: | :---: |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
-|Detectron2|ResNet50|MaskRCNN|GPU|3x|xx|xx|xx|xx/s|xx.xx|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)  |
+|Detectron2|ResNet50|MaskRCNN|GPU|3x|xx|xx|xx|xx/s|xx.xx|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YrrbRF69vtJ-X6AtVmSMn0lqllrV3cHG#scrollTo=-bhY2bTjNwJO) |
 
 
 ## Metrics
